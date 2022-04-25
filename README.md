@@ -8,7 +8,7 @@
 - PostgresSQL
 - DBeaver
 
-### Aqui segue um [Roteiro de Estudos da TAIL](https://github.com/ArthurRamonSouza/tail-trainees-2/blob/main/Roteiro_de_Estudos_TAIL_2) utilizado para nivelamento da equipe de Trainees 2
+### Aqui segue um [Roteiro de Estudos da TAIL](https://github.com/ArthurRamonSouza/tail-trainees-2/blob/main/Roteiro_de_Estudos_TAIL_2.odt) utilizado para nivelamento da equipe de Trainees 2
 
 ### 2. Para ajudar aqueles que desejam se aventurar e aprender um pouco mais utilizando este repositório, deixei aqui [o ambiente (enviroment) do Anaconda](https://github.com/ArthurRamonSouza/tail-trainees-2/blob/main/environment.yml) que criei. Use como um guia ou apenas para fazer testes.
 
