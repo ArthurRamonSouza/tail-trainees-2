@@ -1,7 +1,7 @@
 # O que tem neste repositório?
 
 ### 1. Para aqueles interessados em ingressar na Tail nos próximos processos seletivos, ou para aqueles que apenas desejam aprender o básico das tecnologias:
-- Python
+- Análise de Dados com Python
 - Anaconda
 - Linux
 - Git e GitHub
